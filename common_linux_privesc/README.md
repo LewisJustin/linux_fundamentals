@@ -1,11 +1,10 @@
 # Common Linux Privesc
 
-## Profilse
-'''
+## Profiles
 user3:password
 user4:password
 user7:password
-'''
+
 ## [Task 1] Get Connected
 1. No answer required
 
